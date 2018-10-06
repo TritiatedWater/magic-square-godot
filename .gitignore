@@ -22,3 +22,7 @@ docs/
 
 # Code coverage
 *.lst
+*.s
+dub.selections.json
+*.import
+.import/

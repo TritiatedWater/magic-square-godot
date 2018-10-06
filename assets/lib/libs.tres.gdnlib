@@ -1,0 +1,14 @@
+[general]
+
+singleton=false
+load_once=true
+symbol_prefix="MagicSquareLib"
+reloadable=true
+
+[entry]
+
+X11.64="res://assets/lib/libmagicsquare.so"
+
+[dependencies]
+
+X11.64=[  ]
